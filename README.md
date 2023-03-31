@@ -7,6 +7,6 @@
 
 
 
-reference
+reference  
 2D Unet : https://www.kaggle.com/code/nguyenhoainam27/liver-segmentation-in-3dircadb-dataset-using-unet
 3D Unet : https://github.com/bnsreenu/python_for_microscopists/blob/master/215_3D_Unet.ipynb
